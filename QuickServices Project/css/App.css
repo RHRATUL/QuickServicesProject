@@ -1,0 +1,46 @@
+
+* {
+    font-family: 'Epilogue', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.header h1{
+    color: #1abc9c;
+}
+
+.header p {
+    color: #2ecc71;
+}
+
+.card-1 {
+    border-radius: 20px;
+    -webkit-box-shadow: 6px 3px 15px 1px rgba(0,0,0,0.51); 
+box-shadow: 4px 3px 3px 1px rgba(0,0,0,0.20);
+}
+
+.card-1 img {
+border-radius: 20px;
+}
+
+.card-link{
+    color: #e67e22;
+
+}
+
+#trending {
+
+    color: #2ecc71;
+}
+
+
+#sec1{
+    /* border: 1px solid black; */
+    width: 640px;
+    height: 260px;
+}
+
+#sec2{
+    /* border: 1px solid black; */
+    width: 640px;
+    height: 260px;
+   
+}
